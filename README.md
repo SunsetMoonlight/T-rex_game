@@ -1,1 +1,2 @@
-# T-rex_game
+# trex
+Chrome's trex game created using p5.play
